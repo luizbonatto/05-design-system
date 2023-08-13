@@ -1,5 +1,5 @@
 {
-   "name": "@ampluz-ignite-ui/docs",
+  "name": "@ampluz-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy-storybook": "storybook-to-ghpages",
     "dev": "storybook dev -p 6006",
-    "build": "storybook build && touch ./storybook-static/.nojekyll"
+    "build": "storybook build"
   },
   "keywords": [],
   "author": "",
